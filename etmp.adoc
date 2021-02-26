@@ -1,0 +1,7 @@
+https://powerman.name/doc/asciidoc
+
+= my notes 
+* test 
+
+
+

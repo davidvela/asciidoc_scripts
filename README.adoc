@@ -1,0 +1,5 @@
+# asciidoc README ADOC
+https://powerman.name/doc/asciidoc
+
+
+
