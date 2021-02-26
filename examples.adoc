@@ -284,40 +284,6 @@ there no such files. :)
 *** bullet
 ** bullet
 * bullet
-Bulleted
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
-
-bullet
 
 .Bulleted 2
 - bullet

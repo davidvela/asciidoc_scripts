@@ -1,5 +1,39 @@
 # asciidoc README ADOC
 https://powerman.name/doc/asciidoc
 
+:Author:  David 
+Author is {Author} +
 
+= Main Header 1 
+test normal, _italic_, *bold*, +mono+.
+* point 1 
+* point 2 
+
+== test 123
+desc2
+.coding 
+
+[source,perl]
+die 'connect: '.$dbh->errstr;
+test
+
+Use: code or file listings
+.Optional Title
+[source,perl]
+----
+# *Source* block
+# Use: highlight code listings
+# (require `source-highlight` or `pygmentize`)
+use DBI;
+my $dbh = DBI->connect('...',$u,$p)
+    or die "connect: $dbh->errstr";
+----
+
+[grid="rows",format="csv"]
+[options="header",cols="^,<,<s,<,>m"]
+|===========================
+ID,FName,LName,Address,Phone
+1,Vasya,Pupkin,London,+123
+2,X,Y,"A,B",45678
+|===========================
 
